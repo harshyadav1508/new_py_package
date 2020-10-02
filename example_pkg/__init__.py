@@ -1,0 +1,1 @@
+from .python_file import class_name
